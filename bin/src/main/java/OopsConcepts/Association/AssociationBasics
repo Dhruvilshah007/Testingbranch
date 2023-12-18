@@ -1,0 +1,14 @@
+5. Association
+
+Association is the OOPS concept to define the relationship between objects. The association defines the multiplicity between objects. For example Teacher and Student objects. There is a one-to-many relationship between a teacher and students. Similarly, a student can have a one-to-many relationship with teacher objects. However, both student and teacher objects are independent of each other.
+
+
+Aggregation
+
+Aggregation is a special type of association. In aggregation, objects have their own life cycle but there is ownership. Whenever we have “HAS-A” relationship between objects and ownership then it’s a case of aggregation.
+
+Association
+
+1- Inheritance(Is-A)
+2- Aggregation(Has-A)
+3- Composition(PART-OF)

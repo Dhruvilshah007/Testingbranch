@@ -1,0 +1,3 @@
+6. Composition
+
+The composition is a special case of aggregation. The composition is a more restrictive form of aggregation. When the contained object in “HAS-A” relationship can’t exist on its own, then it’s a case of composition. For example, House has-a Room. Here the room can’t exist without the house. Composition is said to be better than inheritance, read more at Composition vs Inheritance.

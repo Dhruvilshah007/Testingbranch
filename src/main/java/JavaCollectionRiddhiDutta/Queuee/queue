@@ -1,0 +1,21 @@
+Whenever e need normal queue we use LinkedList
+
+Whenever e need stack(FIFO) we use ArrayDequeue
+
+
+If you want to implement stack(LIFO)a use stack class in jav
+If you want to implement queue(FIFO) use linkedlist
+If you want to implement dequeue use arrayDeque
+
+
+Priority Queue
+
+Never try to iterate over priority queue,its bad choice
+
+In java we can iterate over PQ ,why and how?
+->PQ is implementing Queue
+  Queue extending Collections
+  Collections implementing Iterable
+
+Yes, we can iterate but wont get desired output of elements as per priority.Because idealy You would be iterating over a tree.
+
